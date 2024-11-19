@@ -6,5 +6,17 @@
     "pt":{
         "greeting": "Olá, mundo!",
         "farewell": "Adeus!"
+    },
+    "fr":{
+        "greeting": "Bounjour, monde"
+        "farewell": "adieu!"
+    },
+    "ar":{
+        "greeting": "مرحبا العالم"
+        "farewell": "وداعا!"
+    },
+    "HE":{
+        "greeting": "שלום עולם"
+        "farewell": "להתראות"
     }
 }
